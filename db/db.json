@@ -1,0 +1,603 @@
+          {
+            "categories": [
+              {
+                "categoryId": 1,
+                "categoryName": "Базовое покрытие",
+                "categoryDescription": "Компактная и полная система цветоподбора позволяет воссоздать тысячи цветов и вариантов.",
+                "categoryImg": "assets/img/pages/catalog/categories/1/c1_bazovoye_pokrytiye.png"
+              },
+              {
+                "categoryId": 2,
+                "categoryName": "Покрывная эмаль",
+                "categoryDescription": "Компактная система двухкомпонентных акриловых эмалей позволяет получить любой солидный цвет. Подходит для ремонта легковых автомобилей, а также для окраски небольшого грузового транспорта.",
+                "categoryImg": "assets/img/pages/catalog/categories/2/c2_pokryvnaya_emal.png"
+              },
+              {
+                "categoryId": 3,
+                "categoryName": "Лаки",
+                "categoryDescription": "Универсальный ассортимент простых в использовании лаков, для всех вариантов применения, гарантирующих получение идеального финишного покрытия.",
+                "categoryImg": "assets/img/pages/catalog/categories/3/c3_laki.png"
+              },
+              {
+                "categoryId": 4,
+                "categoryName": "Первичные грунты",
+                "categoryDescription": "Весь необходимый ассортимент продуктов для создания идеальной основы, включая специализированные материалы в разных версиях нанесения.",
+                "categoryImg": "assets/img/pages/catalog/categories/4/c4_pervichnyye_grunty.png"
+              },
+              {
+                "categoryId": 5,
+                "categoryName": "Разбавители",
+                "categoryDescription": "Минимальный набор разбавителей для всех возможных вариантов применения.",
+                "categoryImg": "assets/img/pages/catalog/categories/5/c5_razbaviteli.png"
+              },
+              {
+                "categoryId": 6,
+                "categoryName": "Шпатлевки",
+                "categoryDescription": "Широкий ассортимент полиэфирных шпатлевок для незаметного ремонта.",
+                "categoryImg": "assets/img/pages/catalog/categories/6/c6_shpatlevki.png"
+              },
+              {
+                "categoryId": 7,
+                "categoryName": "Антигравии",
+                "categoryDescription": "Сопутствующие материалы, применяемые с основными продуктами, расширяющие возможности использования продукции Dynacoat.",
+                "categoryImg": "assets/img/pages/catalog/categories/7/c7_antigravii.png"
+              },
+              {
+                "categoryId": 8,
+                "categoryName": "Обезжириватели",
+                "categoryDescription": "Эффективные обезжириватели для великолепной подготовки поверхности.",
+                "categoryImg": "assets/img/pages/catalog/categories/8/c8_obezzhirivateli.png"
+              }
+            ],
+            "products": [
+              {
+                "productId": 2420221,
+                "categoryId": 1,
+                "productName": "Basecoat PRO",
+                "productDescriptionShort": "Профессиональный подбор цвета без лишних усилий",
+                "productDescriptionLong": "Базовое покрытие Dynacoat Basecoat PRO создано для воссоздания солидных, перламутровых и металликовых автомобильных цветов. Система цветоподбора состоит из 67 тонеров, включая перламутры, металлики, ксералики, а также солидные и нестандартные цвета. Это базовое покрытие на основе растворителя, позволяющее быстро и без лишних усилий получить профессиональный результат ремонтной окраски. Покрытие подходит для всех типов работ: от точечного ремонта до полной перекраски кузова, от нанесения простого солидного цвета до сложных цветовых эффектов.",
+                "value": 1,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Легкий принцип смешения и гибкая пропорция от 40:90 до 70:90.",
+                  "Простой и точный подбор цвета.",
+                  "Равномерность нанесения, гладкое и качественное покрытие."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/1/2420221.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/1/2420221.pdf",
+                "productImg": "assets/img/pages/catalog/categories/1/products/2420221.png"
+              },
+              {
+                "productId": 2420222,
+                "categoryId": 2,
+                "productName": "2K Topcoat PRO",
+                "productDescriptionShort": "Профессионально и невероятно просто",
+                "productDescriptionLong": "Двухкомпонентная акриловая эмаль Dynacoat, специально разработана для ремонта легковых автомобилей и легкого коммерческого транспорта. Простая пропорция смешения в сочетании с высокой укрывающей способностью, хорошей растекаемостью, превосходным блеском и отличной полируемостью, гарантируют качественный ремонт и экономию затрат. Выбор одного из трех типов универсальных отвердителей, обеспечивает легкую адаптацию к текущим условиям, в зависимости от необходимого объема работ, температуры или особенностей поверхностей для нанесения.",
+                "value": 1,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Превосходная укрывающая способность.",
+                  "Качественная глянцевая отделка.",
+                  "Отличные свойства растекаемости и полировки."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/2/2420222.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/2/2420222.pdf",
+                "productImg": "assets/img/pages/catalog/categories/2/products/2420222.png"
+              },
+              {
+                "productId": 2420223,
+                "categoryId": 3,
+                "productName": "Clear 1500",
+                "productDescriptionShort": "Удобный в использовании лак - идеальное соотношение цены и качества",
+                "productDescriptionLong": "Clear 1500 - это удобный в использовании продукт, обеспечивающий идеальное соотношение цены и качества. Благодаря применению универсальных отвердителей и разбавителей, лак подходит для всех типов ремонта. Быстрый и простой в работе, наносится всего в два слоя, с коротким временем выдержки между ними. Хорошие свойства отверждения и легкость полировки гарантируют превосходную отделку.",
+                "value": 5,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Равномерная отделка.",
+                  "Легкость нанесения.",
+                  "Простая пропорция смешения.",
+                  "Хорошие свойства отверждения и полируемости."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/3/2420223.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/3/2420223.pdf",
+                "productImg": "assets/img/pages/catalog/categories/3/products/2420223.png"
+              },
+              {
+                "productId": 2420224,
+                "categoryId": 3,
+                "productName": "Clear 3000 Fast Antiscratch",
+                "productDescriptionShort": "Универсальный быстросохнущий лак для точечного ремонта и покраски небольших деталей",
+                "productDescriptionLong": "Универсальный быстросохнущий лак, отлично подойдет для быстрого точечного ремонта и покраски небольших деталей. Оптимальный состав при низких температурах дает сочетание качественной поверхности ремонта и быстрой сушки. Простая пропорция смешения и отличные свойства нанесения гарантируют идеальный результат финишного покрытия.",
+                "value": 1,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Быстрое высыхание от пыли и короткое время сушки.",
+                  "Отличные свойства нанесения и удобство в использовании.",
+                  "Идеальный выбор для точечного ремонта и покраски небольших панелей."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/3/2420224.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/3/2420224.pdf",
+                "productImg": "assets/img/pages/catalog/categories/3/products/2420224.png"
+              },
+              {
+                "productId": 2420225,
+                "categoryId": 3,
+                "productName": "Clear 5000 HS",
+                "productDescriptionShort": "Универсальный двухкомпонентный лак",
+                "productDescriptionLong": "Clear 5000 HS - универсальный двухкомпонентный лак, подходит для нанесения при любом типе ремонта, включая точечный ремонт, покраску нескольких деталей и полный перекрас кузова. Классическая пропорция смешения, легкость нанесения и полировки значительно сокращают затраты времени, труда и материалов на весь ремонт, обеспечивая высокую эффективность и прибыльность кузовного цеха.",
+                "value": 1,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Один многофункциональный лак для всех типов ремонта.",
+                  "Легкость нанесения.",
+                  "Простая пропорция смешения.",
+                  "Короткое время межслойной выдержки.",
+                  "Равномерная отделка."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/3/2420225.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/3/2420225.pdf",
+                "productImg": "assets/img/pages/catalog/categories/3/products/2420225.png"
+              },
+              {
+                "productId": 2420226,
+                "categoryId": 3,
+                "productName": "Clear 6000 HS Antiscratch",
+                "productDescriptionShort": "Первоклассный лак с превосходным блеском",
+                "productDescriptionLong": "Лучший лак в своем классе с превосходным блеском. Возможности широкого разнообразия нанесений - это стандарт для данного лака. При простой пропорции смешения и удобном выборе универсальных отвердителей и разбавителей, маляры гарантировано получают идеальный результат финишного покрытия в любых температурных условиях и при выполнении любого типа ремонта.",
+                "value": 1,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Отличный внешний вид.",
+                  "Удобство в использовании.",
+                  "Простая пропорция смешения.",
+                  "Превосходный глянец.",
+                  "Высокая прочность и долговечность покрытия."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/3/2420226.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/3/2420226.pdf",
+                "productImg": "assets/img/pages/catalog/categories/3/products/2420226.png"
+              },
+              {
+                "productId": 2420227,
+                "categoryId": 3,
+                "productName": "Clear 7000 AS",
+                "productDescriptionShort": "Высокопрочный лак с идеальным глянцем",
+                "productDescriptionLong": "Лак Clear 7000 AS отличается высокой стойкостью к образованию царапин и воздействию химических веществ, а также гарантирует максимальную защиту от вредных воздействий окружающей среды. Cмешивается в предельно простой пропорции, легко наносится и полируется, обеспечивая прочный слой покрытия с великолепным глянцем.",
+                "value": 5,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Универсальность в применении.",
+                  "Легкость нанесения.",
+                  "Быстрая сушка.",
+                  "Оптимальный состав, обеспечивающий высокую прочность покрытия с идеальным глянцем."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/3/2420227.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/3/2420227.pdf",
+                "productImg": "assets/img/pages/catalog/categories/3/products/2420227.png"
+              },
+              {
+                "productId": 2420228,
+                "categoryId": 3,
+                "productName": "Clear Matt",
+                "productDescriptionShort": "Двухкомпонентный матовый лак",
+                "productDescriptionLong": "Двухкомпонентный матовый лак, идеальный вариант для воспроизведения финишных покрытий со сниженным глянцем. Этот продукт можно использовать в сочетании с лаками Dynacoat Clear 3000 Fast Antiscratch и Clear 6000 HS Antiscratch, получая необходимый уровень глянца. Удобный выбор универсальных разбавителей и отвердителей поможет скорректировать свойства лака в зависимости от условий нанесения. Гладкое высококачественное финишное покрытие с привлекательным эффектом сатинового глянца создается при минимальных усилиях.",
+                "value": 1,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Легкость нанесения.",
+                  "Короткое время выдержки между слоями.",
+                  "Регулируемый уровень блеска."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/3/2420228.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/3/2420228.pdf",
+                "productImg": "assets/img/pages/catalog/categories/3/products/2420228.png"
+              },
+              {
+                "productId": 2420229,
+                "categoryId": 3,
+                "productName": "Clear UHS Speed",
+                "productDescriptionShort": "Быстросохнущий лак с превосходным глянцем",
+                "productDescriptionLong": "Dynacoat Clear UHS Speed не только сэкономит время, но и создаст идеальное финишное покрытие с превосходным глянцем, которое легко полировать сразу после остывания, на следующий день, и даже через полгода.",
+                "value": 5,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Короткое время сушки и быстрое сквозное отверждение.",
+                  "Легкость полировки.",
+                  "Превосходная растекаемость и стойкий глянец."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/3/2420229.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/3/2420229.pdf",
+                "productImg": "assets/img/pages/catalog/categories/3/products/2420229.png"
+              },
+              {
+                "productId": 24202210,
+                "categoryId": 4,
+                "productName": "1K Etch Primer",
+                "productDescriptionShort": "Травящий первичный грунт",
+                "productDescriptionLong": "Dynacoat 1K Etch Primer – это не содержащий хроматов протравливающий грунт в аэрозольной упаковке. Он идеально подходит для металлических поверхностей, в частности стали, оцинкованной стали и алюминия. Обеспечивает великолепную защиту от коррозии с оптимальной адгезией с последующим слоем покрытия.",
+                "value": 0.4,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Готовый к нанесению продукт в удобном аэрозольном баллончике.",
+                  "Высочайший уровень коррозионной защиты металла.",
+                  "Прекрасная адгезия наносимых впоследствии лакокрасочных материалов."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/4/24202210.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/4/24202210-24202212.pdf",
+                "productImg": "assets/img/pages/catalog/categories/4/products/24202210.png"
+              },
+              {
+                "productId": 24202211,
+                "categoryId": 4,
+                "productName": "1K Plastics Primer",
+                "productDescriptionShort": "Превосходная адгезия на деталях из пластика",
+                "productDescriptionLong": "Однокомпонентный адгезионный грунт по пластику подходит для покрытия большинства пластиковых деталей автомобилей. Достаточно всего одного слоя, время сушки составляет 20 минут при 20 °C. Продукт готов к использованию без дополнительного смешивания, имеет неограниченный срок жизни, и является полностью безотходным. Легкий в нанесении и быстросохнущий грунт позволяет получить впечатляющий результат в кратчайший срок.",
+                "value": 1,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Готовый к наненсению продукт.",
+                  "Подходит для всех видов пластиков.",
+                  "Быстрота высыхания."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/4/24202211.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/4/24202210-24202212.pdf",
+                "productImg": "assets/img/pages/catalog/categories/4/products/24202211.png"
+              },
+              {
+                "productId": 24202212,
+                "categoryId": 4,
+                "productName": "1K Primer Grey",
+                "productDescriptionShort": "Быстрое и качественное покрытие",
+                "productDescriptionLong": "Однокомпонентный универсальный грунт серого цвета, распыляется непосредственно из удобного аэрозольного баллончика, обеспечивая быстрое и качественное нанесение. Достаточно просто встряхнуть баллончик и нанести равномерный слой покрытия. Особенно полезен для грунтования мелких деталей и зачищенных точечных повреждений. Продукт, готовый к использованию в любых условиях и незаменим при покраске труднодоступных участков, а также углов и кромок.",
+                "value": 0.4,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Готовый к нанесению продукт в удобном аэрозольном баллончике.",
+                  "Легкость и удобство шлифования по мокрому и по сухому.",
+                  "Неограниченный срок жизни смеси и короткое время сушки."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/4/24202212.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/4/24202210-24202212.pdf",
+                "productImg": "assets/img/pages/catalog/categories/4/products/24202212.png"
+              },
+              {
+                "productId": 24202213,
+                "categoryId": 4,
+                "productName": "2K Epoxy Primer",
+                "productDescriptionShort": "Универсальный эпоксидный грунт",
+                "productDescriptionLong": "Двухкомпонентный эпоксидный грунт 2K Epoxy Primer обладает оптимальным сочетанием адгезионных и антикоррозийных свойств. Он может использоваться как в шлифуемой, так и в нешлифуемой версиях и может наноситься на разные типы поверхностей. Он идеально подходит для нанесения на стальные и алюминиевые поверхности, а также на OEM покрытия и поверхности из слоистого пластика. Отличная наполняющая способность в сочетании с легкой шлифуемостью обеспечивает возможность покрытия больших площадей и устранения поверхностных неровностей.",
+                "value": 1,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Высокая защита от коррозии и универсальность в применении.",
+                  "Легкость нанесения и высокая скорость сушки.",
+                  "Отличные свойста наполнения и шлифования."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/4/24202213.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/4/24202213.pdf",
+                "productImg": "assets/img/pages/catalog/categories/4/products/24202213.png"
+              },
+              {
+                "productId": 24202214,
+                "categoryId": 4,
+                "productName": "Filler HB 4+1",
+                "productDescriptionShort": "Простой и надежный грунт-выравниватель для получения гладкой поверхности",
+                "productDescriptionLong": "Двухкомпонентный грунт-выравниватель, предназначен для решения самых разных задач при выполнении ремонтной окраски автомобилей, обеспечивая идеальную подготовку поверхности под нанесение последующего финишного покрытия. При толщине слоя от 70 до 90 микрон за один слой Filler HB 4+1 является идеальным решением для грунтования больших поверхностей, но также отлично подойдет для мелкого и среднего типов ремонта.",
+                "value": 3,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Простая пропорция смешения, легкость нанесения и быстрая сушка.",
+                  "Обеспечивает высокую толщину слоя покрытия и легкость шлифовки после высыхания.",
+                  "Серый цвет грунта сочетается с большинством оттенков базовых покрытий, обеспечивая хорошую укрывающую способность."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/4/24202214.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/4/24202214.pdf",
+                "productImg": "assets/img/pages/catalog/categories/4/products/24202214.png"
+              },
+              {
+                "productId": 24202215,
+                "categoryId": 4,
+                "productName": "Filler 4100",
+                "productDescriptionShort": "Универсальный грунт-выравниватель с превосходным качеством отделки",
+                "productDescriptionLong": "Двухкомпонентный грунт-выравниватель с великолепной укрывающей способностью, хорошими свойствами растекаемости и наполнения, отлично сочетается с большинством типов поверхностей. Высокая наполняющая способность обеспечивает возможность покрытия больших площадей и устранения поверхностных неровностей.",
+                "value": 4,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Легкость нанесения и быстрая сушка.",
+                  "Три цвета грунта (черный, серый и белый) с возможностью смешения между собой для получения подходящего оттенка.",
+                  "Высокая укрывающая способность и формирование идеальной основы для нанесения последующих покрытий."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/4/24202215.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/4/24202215.pdf",
+                "productImg": "assets/img/pages/catalog/categories/4/products/24202215.png"
+              },
+              {
+                "productId": 24202216,
+                "categoryId": 4,
+                "productName": "Filler 5+1",
+                "productDescriptionShort": "Универсальный грунт-выравниватель с высокой наполняющей способностью",
+                "productDescriptionLong": "Двухкомпонентный грунт-выравниватель высокого качества соответствует требованиям по содержанию VOC. Cоздает пленку толщиной до 100 микрон на один слой и отлично подходит для заполнения неровностей и пор на больших поверхностях. После нанесения грунт может быть высушен как температурной, так и воздушной сушкой или при помощи ИК- оборудования. Материал быстро и легко наносится, обладает хорошей шлифуемостью. Продукт доступен в трех цветах: белом, сером и черном, с возможностью смешения между собой для получения подходящей подложки для наилучшей укрывистости базового покрытия.",
+                "value": 0.84,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Высокая наполняющая способность и легкость нанесения.",
+                  "Быстрое время сушки в зависимости от условий нанесения.",
+                  "Удобство выбора, за счет смешения трех цветов грунта для получения подходящей подложки."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/4/24202216.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/4/24202216.pdf",
+                "productImg": "assets/img/pages/catalog/categories/4/products/24202216.png"
+              },
+              {
+                "productId": 24202217,
+                "categoryId": 4,
+                "productName": "Filler 6100 DUO",
+                "productDescriptionShort": "Многофункциональный грунт-выравниватель соответствующий европейским нормам по содержанию VOC",
+                "productDescriptionLong": "Многофункциональный грунт-выравниватель прекрасно подойдет для решения любых повседневных задач. Материал обеспечивает универсальность в применении благодаря использованию в шлифуемой и нешлифуемой версиях. Продукт легко наносится и обладает высокой укрывающей способностью. Filler 6100 Duo соответствует европейским нормам по содержанию VOC, обеспечивая высококачественные результаты финишного покрытия.",
+                "value": 1,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Универсальность в применении за счет двух версий смешения: шлифуемой и нешлифуемой.",
+                  "Легкость нанесения и быстрая сушка.",
+                  "Три цвета грунта (черный, серый и белый) с возможностью смешения между собой для получения подходящего оттенка."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/4/24202217.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/4/24202217.pdf",
+                "productImg": "assets/img/pages/catalog/categories/4/products/24202217.png"
+              },
+              {
+                "productId": 24202218,
+                "categoryId": 4,
+                "productName": "Polyester Spray Filler",
+                "productDescriptionShort": "Двухкомпонентная полиэфирная жидкая шпатлевка",
+                "productDescriptionLong": "Двухкомпонентная, быстросохнущая полиэфирная шпатлевка предназначена для нанесения распылением и получения гладкой пленки сухого материала. Идеально подходит для окончательного заполнения больших ремонтируемых поверхностей кузова, выравнивания большого количества вмятин на одной детали, например, при повреждении градом.",
+                "value": 0.8,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Используется на различных металлических поверхностях, в том числе из оцинкованной стали и алюминия.",
+                  "Обладает превосходной адгезией.",
+                  "Отлично наносится, быстро сохнет и легко шлифуется."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/4/24202218.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/4/24202218.pdf",
+                "productImg": "assets/img/pages/catalog/categories/4/products/24202218.png"
+              },
+              {
+                "productId": 24202219,
+                "categoryId": 5,
+                "productName": "Extra Speed",
+                "productDescriptionShort": "Акселератор Dynacoat Extra Speed применяется в качестве ускорителя сушки",
+                "productDescriptionLong": "Акселератор Dynacoat Extra Speed применяется в качестве ускорителя сушки, а также для улучшения сквозного отверждения лаков Dynacoat Clear 6000 HS Antiscratch и Clear 3000 Fast Antiscratch. Данная добавка применяется вместо разбавителей, рекомендуется использовать при температуре ниже 25°С.",
+                "value": 1,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Используется на различных металлических поверхностях, в том числе из оцинкованной стали и алюминия.",
+                  "Отлично наносится и легко шлифуется.",
+                  "Поставляется в комплекте с отвердителем."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/5/24202219.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/5/24202219-24202224.pdf",
+                "productImg": "assets/img/pages/catalog/categories/5/products/24202219.png"
+              },
+              {
+                "productId": 24202220,
+                "categoryId": 5,
+                "productName": "Fade Out Additive",
+                "productDescriptionShort": "Разбавитель для выполнения плавного перехода",
+                "productDescriptionLong": "Разбавитель для выполнения плавного перехода лака на отделочном покрытии, для растворения краев опыла. Подходит также для мелкого точечного ремонта, например на бампере автомобиля. После высыхания участок перехода можно полировать.",
+                "value": 1,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Используется на различных металлических поверхностях, в том числе из оцинкованной стали и алюминия.",
+                  "Обладает превосходной адгезией.",
+                  "Отлично наносится и легко шлифуется."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/5/24202220-24202224.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/5/24202219-24202224.pdf",
+                "productImg": "assets/img/pages/catalog/categories/5/products/24202220.png"
+              },
+              {
+                "productId": 24202221,
+                "categoryId": 5,
+                "productName": "Thinner Fast",
+                "productDescriptionShort": "Универсальный быстрый разбавитель",
+                "productDescriptionLong": "Универсальный быстрый разбавитель Dynacoat Thinner Fast предназначен для регулировки вязкости грунтов-выравнивателей, лаков и эмалей Dynacoat. Подходит при проведении ремонта отдельных поверхностей или среднего ремонта при температуре около 20 °C. Используется со следующими продуктами: Clear 1500, Clear 3000 Fast Antiscratch, Clear 5000 HS, Clear 6000 HS Antiscratch, Clear 7000 AS, Clear Matt, 2K Epoxy Primer, Filler 4100, Filler 5+1, Filler 6100 Duo, Spray Filler, Basecoat PRO и 2K Topcoat PRO.",
+                "value": 5,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Используется на различных металлических поверхностях, в том числе из оцинкованной стали и алюминия, а также применяется для ремонта деталей из слоистого пластика.",
+                  "Обладает превосходной адгезией и высокой наполняющей способностью.",
+                  "Отлично наносится и легко шлифуется."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/5/24202220-24202224.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/5/24202219-24202224.pdf",
+                "productImg": "assets/img/pages/catalog/categories/5/products/24202221.png"
+              },
+              {
+                "productId": 24202222,
+                "categoryId": 5,
+                "productName": "Thinner Medium",
+                "productDescriptionShort": "Универсальный стандартный разбавитель",
+                "productDescriptionLong": "Универсальный разбавитель Dynacoat Thinner Medium предназначен для регулировки вязкости грунтов-выравнивателей, лаков и эмалей Dynacoat. Подходит для проведения среднего и крупного ремонта при температурах от 20 °C до 30 °C. Используется со следующими продуктами: Clear 1500, Clear 3000 Fast Antiscratch, Clear 5000 HS, Clear 6000 HS Antiscratch, Clear 7000 AS, Clear Matt, 2K Epoxy Primer, Filler 4100, Filler 5+1, Filler 6100 Duo, Spray Filler, Basecoat PRO и 2K Topcoat PRO.",
+                "value": 5,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Используется на различных пластиковых поверхностях.",
+                  "Обладает превосходной адгезией.",
+                  "Отлично наносится и легко шлифуется."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/5/24202220-24202224.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/5/24202219-24202224.pdf",
+                "productImg": "assets/img/pages/catalog/categories/5/products/24202222.png"
+              },
+              {
+                "productId": 24202223,
+                "categoryId": 5,
+                "productName": "Thinner Slow",
+                "productDescriptionShort": "Универсальный медленный разбавитель",
+                "productDescriptionLong": "Универсальный разбавитель Dynacoat Thinner Slow предназначен для регулировки вязкости грунтов-выравнивателей, лаков и эмалей Dynacoat. Применяется для всех видов ремонта при температурах выше 30 °C. Используется со следующими продуктами: Clear 1500, Clear 5000 HS, Clear 6000 HS Antiscratch, Clear 7000 AS, Clear Matt 2K Epoxy Primer, Filler 4100, Filler 5+1, Filler 6100 Duo, Spray Filler, Basecoat PRO и 2K Topcoat PRO.",
+                "value": 5,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Используется на различных металлических поверхностях, в том числе из оцинкованной стали и алюминия.",
+                  "Обладает превосходной адгезией.",
+                  "Отлично наносится и легко шлифуется."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/5/24202220-24202224.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/5/24202219-24202224.pdf",
+                "productImg": "assets/img/pages/catalog/categories/5/products/24202223.png"
+              },
+              {
+                "productId": 24202224,
+                "categoryId": 5,
+                "productName": "Thinner UHS Standard",
+                "productDescriptionShort": "Специальный разбавитель для лака Clear UHS Speed",
+                "productDescriptionLong": "Специальный разбавитель для лака Clear UHS Speed",
+                "value": 1,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Используется на различных металлических поверхностях, в том числе из оцинкованной стали и алюминия.",
+                  "Обладает превосходной адгезией.",
+                  "Отлично наносится и легко шлифуется."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/5/24202220-24202224.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/5/24202219-24202224.pdf",
+                "productImg": "assets/img/pages/catalog/categories/5/products/24202224.png"
+              },
+              {
+                "productId": 24202225,
+                "categoryId": 6,
+                "productName": "Polyester Putty Extra",
+                "productDescriptionShort": "Финишная двухкомпонентная полиэфирная шпатлевка",
+                "productDescriptionLong": "Финишная двухкомпонентная полиэфирная шпатлевка для заполнения царапин и вмятин поверхностей деталей кузова. Обеспечивает исключительно гладкую поверхность.",
+                "value": 1.55,
+                "typeOfValue": "Kg",
+                "characteristics": [
+                  "Используется на различных металлических поверхностях, в том числе из оцинкованной стали и алюминия.",
+                  "Отлично наносится и легко шлифуется.",
+                  "Поставляется в комплекте с отвердителем."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/6/24202225.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/6/24202225.pdf",
+                "productImg": "assets/img/pages/catalog/categories/6/products/24202225.png"
+              },
+              {
+                "productId": 24202226,
+                "categoryId": 6,
+                "productName": "Polyester Putty Glass Fibre",
+                "productDescriptionShort": "Двухкомпонентная полиэфирная шпатлевка, усиленная стекловолокном",
+                "productDescriptionLong": "Двухкомпонентная, усиленная стекловолокном, полиэфирная шпатлевка используется для нанесения на детали автомобилей, изготовленные из полиэфирных смол, или стальные поверхности. Обладает высокой наполняющей способностью и отлично подходит для заполнения глубоких вмятин.",
+                "value": 1.6,
+                "typeOfValue": "Kg",
+                "characteristics": [
+                  "Используется на различных металлических поверхностях, в том числе из оцинкованной стали и алюминия, а также применяется для ремонта деталей из слоистого пластика.",
+                  "Обладает превосходной адгезией и высокой наполняющей способностью.",
+                  "Отлично наносится и легко шлифуется."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/6/24202226.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/6/24202226.pdf",
+                "productImg": "assets/img/pages/catalog/categories/6/products/24202226.png"
+              },
+              {
+                "productId": 24202227,
+                "categoryId": 6,
+                "productName": "Polyester Putty Light",
+                "productDescriptionShort": "Легкая двухкомпонентная полиэфирная шпатлевка",
+                "productDescriptionLong": "Легкая двухкомпонентная полиэфирная шпатлевка, не содержащая талька. Характеризуется малым весом, высокой эластичностью и хорошей адгезией к металлическим поверхностям. Тонкая консистенция шпатлевки облегчает нанесение на большие поверхности и обеспечивает отличную шлифуемость.",
+                "value": 1.2,
+                "typeOfValue": "Kg",
+                "characteristics": [
+                  "Используется на различных металлических поверхностях, в том числе из оцинкованной стали и алюминия.",
+                  "Обладает превосходной адгезией.",
+                  "Отлично наносится и легко шлифуется."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/6/24202227.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/6/24202227.pdf",
+                "productImg": "assets/img/pages/catalog/categories/6/products/24202227.png"
+              },
+              {
+                "productId": 24202228,
+                "categoryId": 6,
+                "productName": "Polyester Putty Multifill",
+                "productDescriptionShort": "Многофункциональная двухкомпонентная полиэфирная шпатлевка",
+                "productDescriptionLong": "Двухкомпонентная полиэфирная шпатлевка для заполнения вмятин и неровностей поверхностей деталей кузова. Мелкозернистая консистенция позволяет получать очень гладкую поверхность, что облегчает последующую шлифовку.",
+                "value": 1.85,
+                "typeOfValue": "Kg",
+                "characteristics": [
+                  "Используется на различных металлических поверхностях, в том числе из оцинкованной стали и алюминия.",
+                  "Обладает превосходной адгезией.",
+                  "Отлично наносится и легко шлифуется."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/6/24202228.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/6/24202228.pdf",
+                "productImg": "assets/img/pages/catalog/categories/6/products/24202228.png"
+              },
+              {
+                "productId": 24202229,
+                "categoryId": 6,
+                "productName": "Polyester Putty Plastic",
+                "productDescriptionShort": "Полиэфирная шпатлевка для ремонта пластиковых деталей",
+                "productDescriptionLong": "Двухкомпонентная полиэфирная шпатлевка для заполнения вмятин и выравнивания неровностей на пластиковых деталях автомобиля. Мягкая эластичная структура имеет великолепную адгезию со всеми видами пластиков, применяемых в автомобилестроении.",
+                "value": 0.38,
+                "typeOfValue": "Kg",
+                "characteristics": [
+                  "Используется на различных пластиковых поверхностях.",
+                  "Обладает превосходной адгезией.",
+                  "Отлично наносится и легко шлифуется."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/6/24202229.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/6/24202229.pdf",
+                "productImg": "assets/img/pages/catalog/categories/6/products/24202229.png"
+              },
+              {
+                "productId": 24202230,
+                "categoryId": 6,
+                "productName": "Polyester Putty Universal",
+                "productDescriptionShort": "Универсальная двухкомпонентная полиэфирная шпатлевка",
+                "productDescriptionLong": "Универсальная двухкомпонентная полиэфирная шпатлевка отлично подходит для заполнения вмятин и неровностей на поверхности кузова автомобиля. Благодаря крупной текстуре обеспечивает удобное выравнивание больших вмятин.",
+                "value": 1.8,
+                "typeOfValue": "Kg",
+                "characteristics": [
+                  "Используется на различных металлических поверхностях, в том числе из оцинкованной стали и алюминия.",
+                  "Обладает превосходной адгезией.",
+                  "Отлично наносится и легко шлифуется."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/6/24202230.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/6/24202230.pdf",
+                "productImg": "assets/img/pages/catalog/categories/6/products/24202230.png"
+              },
+              {
+                "productId": 24202231,
+                "categoryId": 7,
+                "productName": "Antigravel",
+                "productDescriptionShort": "Антигравийное покрытие",
+                "productDescriptionLong": "Antigravel - это готовое к нанесению покрытие, сохраняющее эластичность, предназначенное для защиты кузова автомобиля от мелкого щебня. Материал быстро сохнет и разработан специально для длительной защиты от сколов камнями на переднем и заднем фартуках и колесных арках. После нанесения образуется сплошная эластичная структурированная пленка, обеспечивающая отличную защиту от ржавчины и гравия. Обладает хорошей адгезией и может покрываться любым лаком. Выпускается в трех цветах: белом, сером и черном.",
+                "value": 1,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Быстрота высыхания.",
+                  "Легкость нанесения.",
+                  "Высокая прочность и долговечность покрытия."
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/7/24202231.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/7/24202231.pdf",
+                "productImg": "assets/img/pages/catalog/categories/7/products/24202231.png"
+              },
+              {
+                "productId": 24202232,
+                "categoryId": 8,
+                "productName": "Uni Degreaser",
+                "productDescriptionShort": "Универсальный обезжириватель на сольвентной основе",
+                "productDescriptionLong": "Универсальный обезжириватель на сольвентной основе, предназначен для очистки и обезжиривания металлических поверхностей и существующих покрытий на которых нанесены грунт или шпатлевка.",
+                "value": 5,
+                "typeOfValue": "L",
+                "characteristics": [
+                  "Эффективно удаляет с поверхности остатки жиров, масел, парафинов, силиконов и других загрязнений.",
+                  "Простота использования"
+                ],
+                "tdsPdfLink": "assets/docs/catalog/tds/8/24202232.pdf",
+                "otherPdfLink": "assets/docs/catalog/other/8/24202232.pdf",
+                "productImg": "assets/img/pages/catalog/categories/8/products/24202232.png"
+              }
+            ]
+          }
